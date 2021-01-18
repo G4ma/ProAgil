@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Repository\\ProAgil.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Domain\\ProAgil.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Domain\\ProAgil.Domain.csproj",
+        "projectName": "ProAgil.Domain",
+        "projectPath": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Domain\\ProAgil.Domain.csproj",
+        "packagesPath": "C:\\Users\\renato.medeiros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renato.medeiros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Repository\\ProAgil.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Repository\\ProAgil.Repository.csproj",
+        "projectName": "ProAgil.Repository",
+        "projectPath": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Repository\\ProAgil.Repository.csproj",
+        "packagesPath": "C:\\Users\\renato.medeiros\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renato.medeiros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Domain\\ProAgil.Domain.csproj": {
+                "projectPath": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Domain\\ProAgil.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

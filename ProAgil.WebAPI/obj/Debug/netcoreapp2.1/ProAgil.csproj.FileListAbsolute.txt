@@ -1,0 +1,34 @@
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\ProAgil.deps.json
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\ProAgil.runtimeconfig.json
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\ProAgil.runtimeconfig.dev.json
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\ProAgil.dll
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\ProAgil.pdb
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.csprojAssemblyReference.cache
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.AssemblyInfoInputs.cache
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.AssemblyInfo.cs
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.csproj.CoreCompileInputs.cache
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.RazorAssemblyInfo.cache
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.RazorAssemblyInfo.cs
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.RazorTargetAssemblyInfo.cache
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.dll
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.pdb
+C:\Users\renato.medeiros\Desktop\TUDO\CSharp\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.genruntimeconfig.cache
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\ProAgil.deps.json
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\ProAgil.runtimeconfig.json
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\ProAgil.runtimeconfig.dev.json
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\ProAgil.dll
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\bin\Debug\netcoreapp2.1\ProAgil.pdb
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.csprojAssemblyReference.cache
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.AssemblyInfoInputs.cache
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.AssemblyInfo.cs
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.csproj.CoreCompileInputs.cache
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.RazorAssemblyInfo.cache
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.RazorAssemblyInfo.cs
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.RazorTargetAssemblyInfo.cache
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.dll
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.pdb
+C:\Users\renato.medeiros\Desktop\Estudo 2021\ProAgil\ProAgil\obj\Debug\netcoreapp2.1\ProAgil.genruntimeconfig.cache
