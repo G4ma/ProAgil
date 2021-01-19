@@ -1,0 +1,9 @@
+C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Domain\bin\Debug\netcoreapp2.1\ProAgil.Domain.deps.json
+C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Domain\bin\Debug\netcoreapp2.1\ProAgil.Domain.dll
+C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Domain\bin\Debug\netcoreapp2.1\ProAgil.Domain.pdb
+C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Domain\obj\Debug\netcoreapp2.1\ProAgil.Domain.csprojAssemblyReference.cache
+C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Domain\obj\Debug\netcoreapp2.1\ProAgil.Domain.AssemblyInfoInputs.cache
+C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Domain\obj\Debug\netcoreapp2.1\ProAgil.Domain.AssemblyInfo.cs
+C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Domain\obj\Debug\netcoreapp2.1\ProAgil.Domain.csproj.CoreCompileInputs.cache
+C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Domain\obj\Debug\netcoreapp2.1\ProAgil.Domain.dll
+C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Domain\obj\Debug\netcoreapp2.1\ProAgil.Domain.pdb

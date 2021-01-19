@@ -33,6 +33,7 @@ namespace ProAgil
             services.AddCors();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddDbContext<ProAgilContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped<IProAgilRepository, ProAgilRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

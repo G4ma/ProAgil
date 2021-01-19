@@ -20,9 +20,7 @@ namespace ProAgil.Repository
         Task<Evento> GetEventoAsyncById(int EventoId, bool includePalestrantes);
 
         //PALESTRANTES
-
         Task<Palestrante[]> GetAllPalestrantesAsyncByName(string name, bool includeEventos);
         Task<Palestrante> GetPalestranteAsync(int PalestranteId, bool includeEventos);
-
     }
 }
