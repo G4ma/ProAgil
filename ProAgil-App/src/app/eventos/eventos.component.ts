@@ -1,15 +1,29 @@
-import { HttpClient, HttpClientModule } from '@angular/common/http';
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, TemplateRef } from '@angular/core';
+import { Evento } from '../_models/Evento';
+import { EventoService } from '../_services/evento.service';
+import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
+
 
 @Component({
   selector: 'app-eventos',
   templateUrl: './eventos.component.html',
-  styleUrls: ['./eventos.component.css']
+  styleUrls: ['./eventos.component.css'],
 })
 export class EventosComponent implements OnInit {
 
+  eventosFiltrados: Evento[] = [];
+  eventos: Evento[] = [];
+  imagemLargura = 50;
+  imagemMargem = 2;
+  mostrarImagem = false;
+  modalRef!: BsModalRef;
+
   // tslint:disable-next-line:variable-name
-  _filtroLista!: string;
+  _filtroLista = '';
+
+  constructor(
+    private eventoService: EventoService, private modalService: BsModalService ) { }
+
   get filtroLista(): string{
     return this._filtroLista;
   }
@@ -18,26 +32,22 @@ export class EventosComponent implements OnInit {
     this.eventosFiltrados = this.filtroLista ? this.filtrarEventos(this.filtroLista) : this.eventos;
   }
 
-  eventosFiltrados: any = [];
-  eventos: any = [];
-  imagemLargura = 50;
-  imagemMargem = 2;
-  mostrarImagem = false;
-
-  constructor(private http: HttpClient) { }
+  openModal(template: TemplateRef<any>){
+    this.modalRef = this.modalService.show(template);
+  }
 
   ngOnInit() {
     this.getEventos();
   }
 
-  filtrarEventos(filtrarPor: string): any
+  filtrarEventos(filtrarPor: string): Evento[]
   {
     filtrarPor = filtrarPor.toLocaleLowerCase();
     return this.eventos.filter(
-      (evento: { tema: string; local: string; dataEvento: string; }) => evento.tema.toLocaleLowerCase().indexOf(filtrarPor) !== -1 ||
-      evento.local.toLocaleLowerCase().indexOf(filtrarPor) !== -1 ||
-      evento.dataEvento.toLocaleLowerCase().indexOf(filtrarPor) !== -1
-      );
+      (
+      evento => evento.tema.toLocaleLowerCase().indexOf(filtrarPor) !== -1 ||
+      evento.local.toLocaleLowerCase().indexOf(filtrarPor) !== -1
+      ));
   }
 
   alternarImagem()
@@ -47,9 +57,11 @@ export class EventosComponent implements OnInit {
 
   getEventos()
   {
-      this.http.get('http://localhost:5000/api/eventos').subscribe(response => {
-      this.eventos = response;
-      console.log(response);
+    this.eventoService.getAllEvento().subscribe(
+      // tslint:disable-next-line:variable-name
+      (_eventos: Evento[]) => {
+      this.eventos = _eventos;
+      console.log(_eventos);
     }, error => {
       console.log(error);
     });

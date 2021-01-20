@@ -67,7 +67,6 @@ namespace ProAgil.Repository
             if (includePalestrantes)
             {
                 query = query
-                            .AsNoTracking()
                             .Include(pe => pe.PalestrantesEventos)
                             .ThenInclude(p => p.Palestrante);
             }
@@ -87,13 +86,11 @@ namespace ProAgil.Repository
             if (includePalestrantes)
             {
                 query = query
-                            .AsNoTracking()
                             .Include(pe => pe.PalestrantesEventos)
                             .ThenInclude(p => p.Palestrante);
             }
 
             query = query
-                        .AsNoTracking()
                         .OrderBy(c => c.Id)
                         .Where(c => c.Id == EventoId);
 
@@ -110,14 +107,12 @@ namespace ProAgil.Repository
             if (includeEventos)
             {
                 query = query
-                    .AsNoTracking()
                     .Include(pe => pe.PalestrantesEventos)
                     .ThenInclude(e => e.Evento);
             }
 
             query = query.AsNoTracking().OrderBy(p => p.Nome)
                     .Where(p => p.Id == PalestranteId);
-
 
             return await query.FirstOrDefaultAsync();
         }
@@ -129,13 +124,11 @@ namespace ProAgil.Repository
             if (includeEventos)
             {
                 query = query
-                    .AsNoTracking()
                     .Include(pe => pe.PalestrantesEventos)
                     .ThenInclude(e => e.Evento);
             }
 
             query = query.AsNoTracking().Where(p => p.Nome.ToLower().Contains(name.ToLower()));
-
 
             return await query.ToArrayAsync();
         }
