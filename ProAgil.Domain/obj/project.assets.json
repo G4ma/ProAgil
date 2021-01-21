@@ -689,23 +689,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\renato.medeiros\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Renato\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Domain\\ProAgil.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Renato\\Desktop\\Estudo 2021\\ProAgil\\ProAgil.Domain\\ProAgil.Domain.csproj",
       "projectName": "ProAgil.Domain",
-      "projectPath": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Domain\\ProAgil.Domain.csproj",
-      "packagesPath": "C:\\Users\\renato.medeiros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil.WebAPI\\ProAgil.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Renato\\Desktop\\Estudo 2021\\ProAgil\\ProAgil.Domain\\ProAgil.Domain.csproj",
+      "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Renato\\Desktop\\Estudo 2021\\ProAgil\\ProAgil.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\renato.medeiros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Renato\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

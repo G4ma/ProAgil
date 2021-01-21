@@ -10,3 +10,15 @@ C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.R
 C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Repository\obj\Debug\netcoreapp2.1\ProAgil.Repository.csproj.CopyComplete
 C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Repository\obj\Debug\netcoreapp2.1\ProAgil.Repository.dll
 C:\Users\renato.medeiros\Desktop\Estudo 2021\DOTNETCORE\ProAgil.WebAPI\ProAgil.Repository\obj\Debug\netcoreapp2.1\ProAgil.Repository.pdb
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\bin\Debug\netcoreapp2.1\ProAgil.Repository.deps.json
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\bin\Debug\netcoreapp2.1\ProAgil.Repository.dll
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\bin\Debug\netcoreapp2.1\ProAgil.Repository.pdb
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\bin\Debug\netcoreapp2.1\ProAgil.Domain.dll
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\bin\Debug\netcoreapp2.1\ProAgil.Domain.pdb
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\obj\Debug\netcoreapp2.1\ProAgil.Repository.csprojAssemblyReference.cache
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\obj\Debug\netcoreapp2.1\ProAgil.Repository.AssemblyInfoInputs.cache
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\obj\Debug\netcoreapp2.1\ProAgil.Repository.AssemblyInfo.cs
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\obj\Debug\netcoreapp2.1\ProAgil.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\obj\Debug\netcoreapp2.1\ProAgil.Repository.csproj.CopyComplete
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\obj\Debug\netcoreapp2.1\ProAgil.Repository.dll
+C:\Users\Renato\Desktop\Estudo 2021\ProAgil\ProAgil.Repository\obj\Debug\netcoreapp2.1\ProAgil.Repository.pdb
