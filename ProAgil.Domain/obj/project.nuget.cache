@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "xuZ5RwrjqQKCYR4Jout+YTqJi3ThSiajmq5US1jRKscTRTIYB5MYNj8Whi0+DlaReugdafrrh+l5/4/DB64lJA==",
+  "dgSpecHash": "kwbacvq5xLHVnhVAzZWlC+phwKbxeuqmDzIFeulSX2r/Fmo7KaG1vtnJjHpdnqZ3vf9jqJgVySu3uVnE7Qq5rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Renato\\Desktop\\Estudo 2021\\ProAgil\\ProAgil.Domain\\ProAgil.Domain.csproj",
+  "projectFilePath": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil\\ProAgil.Domain\\ProAgil.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Renato\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\Renato\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\Renato\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\Renato\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\Renato\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\Renato\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\Renato\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\renato.medeiros\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\renato.medeiros\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\renato.medeiros\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\renato.medeiros\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\renato.medeiros\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\renato.medeiros\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\renato.medeiros\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

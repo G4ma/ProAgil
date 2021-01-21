@@ -3511,25 +3511,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Renato\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\renato.medeiros\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renato\\Desktop\\Estudo 2021\\ProAgil\\ProAgil.Repository\\ProAgil.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil\\ProAgil.Repository\\ProAgil.Repository.csproj",
       "projectName": "ProAgil.Repository",
-      "projectPath": "C:\\Users\\Renato\\Desktop\\Estudo 2021\\ProAgil\\ProAgil.Repository\\ProAgil.Repository.csproj",
-      "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renato\\Desktop\\Estudo 2021\\ProAgil\\ProAgil.Repository\\obj\\",
+      "projectPath": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil\\ProAgil.Repository\\ProAgil.Repository.csproj",
+      "packagesPath": "C:\\Users\\renato.medeiros\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil\\ProAgil.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Renato\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\renato.medeiros\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -3544,8 +3542,8 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\Renato\\Desktop\\Estudo 2021\\ProAgil\\ProAgil.Domain\\ProAgil.Domain.csproj": {
-              "projectPath": "C:\\Users\\Renato\\Desktop\\Estudo 2021\\ProAgil\\ProAgil.Domain\\ProAgil.Domain.csproj"
+            "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil\\ProAgil.Domain\\ProAgil.Domain.csproj": {
+              "projectPath": "C:\\Users\\renato.medeiros\\Desktop\\Estudo 2021\\DOTNETCORE\\ProAgil\\ProAgil.Domain\\ProAgil.Domain.csproj"
             }
           }
         }
